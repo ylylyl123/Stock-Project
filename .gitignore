@@ -1,0 +1,15 @@
+# System Files
+.DS_Store
+._*
+
+# Private Documentation (Speech & Design Rationale)
+演讲逐字稿.md
+PPT设计理念与复盘.md
+
+# PPT Production Guide & Outline
+PPT制作详细指南.md
+PPT大纲速查.md
+PPT制作/
+
+# Optional: If you want to hide the Source HTML as well, uncomment the line below
+# Stock_Quant_PPT.html
